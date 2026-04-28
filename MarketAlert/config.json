@@ -1,5 +1,16 @@
 {
     "discord_bot_token":"token here",
     "Guild": 0,
-    "Thread": 0
+    "Thread": 0,
+    "allowed_countries": [
+        "美國",
+        "英國",
+        "歐洲",
+        "德國",
+        "澳洲",
+        "加拿大",
+        "紐西蘭",
+        "日本"
+    ],
+    "reminder_minutes": 10
 }
