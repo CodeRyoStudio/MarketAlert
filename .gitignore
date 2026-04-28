@@ -1,3 +1,5 @@
 .idea/
 MarketAlert/config.json
 MarketAlert/data/calendar.csv
+__pycache__/
+*.pyc
